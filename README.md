@@ -9,11 +9,11 @@ Clone this Repo.
 
 Change Directory
 ```bash
-  cd Text_Gen_Project
+  cd TNSDC-GENAI
 ```
 
 Install Dependencies.
-### Most important -> Must use python3.10 Version
+### Most important -> Must use python3.10 Version or above
 ```bash
   pip install -r requirements.txt
 ```
